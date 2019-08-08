@@ -1,0 +1,7 @@
+{
+    "lunch":[
+        {"type": "Hard-Boiled Egg and Snack Plate","price": "5.19","calories": "256"},
+        {"type": "Peanut Butter Banana Tartine","price": "3.99","calories": "480"},
+        {"type": "Summer Roll","price": "2.69","calories": "389"}
+    ]
+}

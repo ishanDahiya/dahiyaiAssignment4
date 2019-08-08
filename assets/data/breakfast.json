@@ -1,0 +1,7 @@
+{
+    "breakfast":[
+        {"type": "Omlet with hash browns","price": "5.19","calories": "536"},
+        {"type": "Hard boiled egg and fruit","price": "6.99","calories": "278"},
+        {"type": "Blueberry pancakes","price": "3.00","calories": "352"}
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "dinner":[
+        {"type": "Lentil Pasta With Arugula Pesto","price": "3.99","calories": "397"},
+        {"type": "Crock Pot Cauliflower Chicken Chili","price": "4.29","calories": "432"},
+        {"type": "Sweet Potato Burger With Creamy Avocado","price": "2  .99","calories": "367"}
+    ]
+}
